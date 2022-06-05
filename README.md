@@ -1,3 +1,5 @@
+# DEPRECATED
+
 # react-starter
 A simple template to quickly setup React projects including preconfigured react-router-dom and a react-grid-system package.
 
